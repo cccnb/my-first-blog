@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../../LeetCode-temp/leetcode/editor/cn/[2427]公因子的数目.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../LeetCode-temp/leetcode/editor/cn/doc/content/[2427]公因子的数目.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2427" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../LeetCode-temp/leetcode/editor/cn/[2427]公因子的数目.py" />
+              <option name="titleSlug" value="number-of-common-factors" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
